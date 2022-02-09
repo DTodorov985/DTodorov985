@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Dimitar Todorov.
+- 👀 I’m interested in Python.
+- 🌱 I’m currently learning Python.
+- 📫 How to reach me - dtodorov985@gmail.com
